@@ -1,6 +1,8 @@
+---
 layout: page
 title: AI design & ethics
 permalink: /AI/
+---
 
 ### AI Design & Ethics
 
