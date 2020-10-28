@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Watson Assistant resources
 permalink: /WATSON-ASSISTANT/
 theme: jekyll-theme-dinky

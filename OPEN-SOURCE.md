@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Open Source resources
 permalink: /OPEN-SOURCE/
 theme: jekyll-theme-dinky
