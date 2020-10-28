@@ -2,6 +2,7 @@
 layout: page
 title: Open Source resources
 permalink: /OPEN-SOURCE/
+theme: jekyll-theme-dinky
 ---
 
 ### Open Source

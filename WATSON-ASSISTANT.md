@@ -2,6 +2,7 @@
 layout: page
 title: Watson Assistant resources
 permalink: /WATSON-ASSISTANT/
+theme: jekyll-theme-dinky
 ---
 
 ### Watson Assitant
