@@ -1,6 +1,8 @@
+---
 layout: page
 title: Open Source resources
 permalink: /OPEN-SOURCE/
+---
 
 ### Open Source
 
