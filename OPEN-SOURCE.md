@@ -11,5 +11,6 @@ Some open source projects that might provide some useful information for this pr
 
 1) https://github.com/sahoo00/grade
 
+2) https://www.k12irc.org/tools/analyses/automated.php
 
-*Using AI for Grading* - Be careful what you ask for - https://hbr.org/2020/08/what-happens-when-ai-is-used-to-set-grades
+
