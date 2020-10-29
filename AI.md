@@ -9,6 +9,7 @@ theme: jekyll-theme-dinky
 
 
 [Design for AI](/assets/AI.pptx)
+
 [IBM AI design presentation](/assets/AI.mp4)
 
 
@@ -52,5 +53,4 @@ Everyday ethics for AI provides discussion points concerning:
 
 1. **Use AI for Grading - one real world example** - 
 2. **Cheating AI grading systems** - [Want perfect scores?](https://www.theverge.com/2020/9/2/21419012/edgenuity-online-class-ai-grading-keyword-mashing-students-school-cheating-algorithm-glitch)
-
 3. **It's all about Algorithms** - [Flawed Algorithms grading Essays](https://www.vice.com/en/article/pa7dj9/flawed-algorithms-are-grading-millions-of-students-essays)
