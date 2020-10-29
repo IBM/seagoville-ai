@@ -7,4 +7,9 @@ theme: jekyll-theme-dinky
 
 ### Open Source
 
-Put stuff here about some possible open source projects that might be useful
+Some open source projects that might provide some useful information for this project
+
+1) https://github.com/sahoo00/grade
+
+
+*Using AI for Grading* - Be careful what you ask for - https://hbr.org/2020/08/what-happens-when-ai-is-used-to-set-grades
