@@ -13,9 +13,9 @@ More information on open source - [What is open source?](https://www.youtube.com
 
 Some open source projects that might provide some useful information for this project
 
-1) [Open Source Project 1](https://github.com/sahoo00/grade)
+1) [Sahoo EasyGrade](https://github.com/sahoo00/grade)
 
-2) [Open Source Project 2](https://www.k12irc.org/tools/analyses/automated.php)
+2) [K12-IRC](https://www.k12irc.org/tools/analyses/automated.php)
 
 
 ## IBM Developer resources
